@@ -1,0 +1,13 @@
+name: bmi_shiny_app
+title:
+username:
+account: chelseashin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2936733
+bundleId: 3698828
+url: https://chelseashin.shinyapps.io/bmi_shiny_app/
+when: 1601738393.34417
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: BMI_Calculator.R|histogram.R|R_shiny_start.R|server.R|ui.R
